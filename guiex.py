@@ -98,6 +98,8 @@ def windowEx5():
 
       def func1():
             label2.config(text='Radio1')
+            rb1.config(text='r1')
+            print(rb1.get())
       def func2():
             label2.config(text='Radio2')
    #   def func3():
